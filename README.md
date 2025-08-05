@@ -1,8 +1,7 @@
 
-![Blackarch-logo2](https://github.com/user-attachments/assets/21546202-b5bb-4eb8-8391-bde947fdf2e4)
+<img width="200" height="200" alt="Blackarch-logo" src="https://github.com/user-attachments/assets/f1f28e76-08f0-4943-a024-ba5e604bdff7" />
 
-
-# Blackarch Base.
+- Blackarch Base.
 
 # Libraries
 
