@@ -1,5 +1,6 @@
 
-<img width="300" height="300" alt="Blackarch-logo" src="https://github.com/user-attachments/assets/6556674a-4be1-4f92-a9ec-934ea3e835e3" />
+![Blackarch-logo2](https://github.com/user-attachments/assets/21546202-b5bb-4eb8-8391-bde947fdf2e4)
+
 
 # Blackarch Base.
 
