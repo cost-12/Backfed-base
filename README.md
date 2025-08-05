@@ -1,5 +1,5 @@
 
-<img width="500" height="500" alt="Blackarch-logo" src="https://github.com/user-attachments/assets/cc944209-7e00-4e08-a896-104b6f20d2b0" />
+<img width="400" height="400" alt="Blackarch-logo" src="https://github.com/user-attachments/assets/cc944209-7e00-4e08-a896-104b6f20d2b0" />
 
 # 🖥️ Blackfedora-Base
 
