@@ -5,7 +5,7 @@
 
 **Blackfedora-Base** é uma distribuição Linux baseada no Fedora, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
 
-Inspirado em projetos como PopOS, ZorinOS e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
+Inspirado em projetos como CrystalLinux, ElementaryOS e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
 
 ## 🎯 Objetivo
 
@@ -53,4 +53,4 @@ Apesar do nome remeter ao BlackArch, o foco aqui é diferente:
 Quer ajudar no projeto, testar ou sugerir melhorias? Fique à vontade para abrir *issues*, *pull requests* ou entrar em contato pela aba de Discussões do GitHub.
 
 
-# Credits
+## 🤝 Créditos
