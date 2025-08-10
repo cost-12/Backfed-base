@@ -13,7 +13,7 @@ Uma spin personalizada do Fedora construída com Image Builder, otimizada para p
 
 A imagem ISO mais recente está hospedada no SourceForge para garantir downloads rápidos e confiáveis para todos.
 
-[![Botão de Download do SourceForge](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/black-fedora-base/files/latest/download)
+[![Downloads no SourceForge](https://img.shields.io/sourceforge/dm/black-fedora-base?label=Downloads&logo=sourceforge)](https://sourceforge.net/projects/black-fedora-base/files/latest/download)
 
 **Versão Atual:** v0.0.2 | **Tamanho:** 2.3 GB
 
