@@ -1,4 +1,5 @@
-
+<!-- Shields/Logos -->
+[![License][license-shield]][license-url]
 <img width="400" height="400" alt="Blackarch-logo" src="https://github.com/user-attachments/assets/cc944209-7e00-4e08-a896-104b6f20d2b0" />
 
 # 🖥️ Blackfedora-Base
@@ -15,7 +16,7 @@ A imagem ISO mais recente está hospedada no SourceForge para garantir downloads
 
 [![Downloads no SourceForge](https://img.shields.io/sourceforge/dm/black-fedora-base?label=Downloads&logo=sourceforge)](https://sourceforge.net/projects/black-fedora-base/files/latest/download)
 
-**Versão Atual:** v0.0.2 | **Tamanho:** 2.3 GB
+**Versão Atual:** v0.0.2 | **Tamanho:** 2.5 GB
 
 ---
 ## 🎯 Objetivo
@@ -66,3 +67,6 @@ Quer ajudar no projeto, testar ou sugerir melhorias? Fique à vontade para abrir
 
 ## 🤝 Créditos
 <a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Black-fedora-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
+<!-- Reference Links -->
+<!-- Badges -->
+[license-url]: ./LICENSE
