@@ -1,5 +1,7 @@
+<div id="top"></div>
 <!-- Shields/Logos -->
 [![License][license-shield]][license-url]
+
 <img width="400" height="400" alt="Blackarch-logo" src="https://github.com/user-attachments/assets/cc944209-7e00-4e08-a896-104b6f20d2b0" />
 
 # 🖥️ Blackfedora-Base
@@ -67,6 +69,8 @@ Quer ajudar no projeto, testar ou sugerir melhorias? Fique à vontade para abrir
 
 ## 🤝 Créditos
 <a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Black-fedora-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
+
 <!-- Reference Links -->
 <!-- Badges -->
+[license-shield]: https://img.shields.io/github/license/cost-12/Black-fedora-base?label=License&logo=Github&style=flat-square
 [license-url]: ./LICENSE
