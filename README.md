@@ -9,7 +9,7 @@ Inspirado em projetos como CrystalLinux, ElementaryOS e outras distribuições m
 
 Uma spin personalizada do Fedora construída com Image Builder, otimizada para performance e com o ambiente de desktop JADE.
 
-## 📥 Download                                                                                <a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Black-fedora-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
+## 📥 Download
 
 A imagem ISO mais recente está hospedada no SourceForge para garantir downloads rápidos e confiáveis para todos.
 
@@ -65,3 +65,4 @@ Quer ajudar no projeto, testar ou sugerir melhorias? Fique à vontade para abrir
 
 
 ## 🤝 Créditos
+<a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Black-fedora-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
