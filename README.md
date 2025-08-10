@@ -7,6 +7,17 @@
 
 Inspirado em projetos como CrystalLinux, ElementaryOS e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
 
+Uma spin personalizada do Fedora construída com Image Builder, otimizada para performance e com o ambiente de desktop JADE.
+
+## 📥 Download
+
+A imagem ISO mais recente está hospedada no SourceForge para garantir downloads rápidos e confiáveis para todos.
+
+[![Botão de Download do SourceForge](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/black-fedora-base/files/latest/download)
+
+**Versão Atual:** v0.0.2 | **Tamanho:** 2.3 GB
+
+---
 ## 🎯 Objetivo
 
 > Tornar o Linux acessível, confiável e otimizado para máquinas com hardware Intel, especialmente aquelas que utilizam gráficos integrados.
