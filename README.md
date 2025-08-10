@@ -1,4 +1,3 @@
-<div id="top"></div>
 <!-- Shields/Logos -->
 [![License][license-shield]][license-url]
 
