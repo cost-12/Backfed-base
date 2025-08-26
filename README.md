@@ -5,9 +5,9 @@
 
 # 🖥️ Backfed-Base
 
-**Backfed-Base** é uma distribuição Linux baseada no Fedora, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
+**Backfed-Base** é uma distribuição Linux baseada no Arch, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
 
-Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
+Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distribuições minimalistas, o Backfed-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
 
 ## 📥 Download
 
@@ -18,7 +18,7 @@ A imagem ISO mais recente está hospedada no SourceForge para garantir downloads
 **Versão Atual:** v0.0.2 | **Tamanho:** 2.5 GB
 
 ---
-## 🎯 Objetivo
+## Objetivo
 
 > Tornar o Linux acessível, confiável e otimizado para máquinas com hardware Intel, especialmente aquelas que utilizam gráficos integrados.
 
@@ -33,15 +33,6 @@ A imagem ISO mais recente está hospedada no SourceForge para garantir downloads
 - 🛠️ Pré-configurações para melhor compatibilidade com drivers e desempenho gráfico
 - 📦 PACMAN como gerenciador de pacotes, com repositórios otimizados
 - 🔐 Ambiente seguro e pronto para uso doméstico ou profissional leve
-
----
-
-## 👥 Público-Alvo
-
-- Usuários iniciantes no Linux
-- Donos de notebooks Intel com gráficos integrados
-- Profissionais que desejam um sistema estável e leve
-- Desenvolvedores que buscam um ambiente simples e funcional
 
 ---
 
