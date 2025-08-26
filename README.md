@@ -45,7 +45,7 @@ A imagem ISO mais recente está hospedada no SourceForge para garantir downloads
 
 ---
 
-## 📌 Por que "Blackfed-Base"?
+## 📌 Por que "Backfed-Base"?
 
 Apesar do nome remeter ao BlackArch, o foco aqui é diferente:
 - **Não é uma distro de pentest**, mas sim uma base otimizada
@@ -65,11 +65,13 @@ Quer ajudar no projeto, testar ou sugerir melhorias? Fique à vontade para abrir
 
 
 ## 🤝 Créditos
-<a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Black-fed-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
-https://archlinux.org/
-https://www.fedoraproject.org/
-https://github.com/cachyos
-https://github.com/CachyOS/linux-cachyos
+
+O Backfed-base não seria possível sem o trabalho incrível das seguintes comunidades e projetos:
+
+* **[Arch Linux](https://archlinux.org/)**: Por fornecer a base sólida, flexível e a documentação fantástica que serve como espinha dorsal do sistema.
+* **[Projeto Fedora](https://www.fedoraproject.org/)**: Pela grande inspiração na filosofia de design, na experiência de usuário e na adoção de tecnologias modernas.
+* **[CachyOS](https://github.com/cachyos)**: Um agradecimento especial pela equipe do CachyOS por seu trabalho pioneiro em otimizações de performance, especialmente pelo [kernel linux-cachyos](https://github.com/CachyOS/linux-cachyos).
+* **<a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Backfed-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
 
 <!-- Reference Links -->
 <!-- Badges -->
