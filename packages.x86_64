@@ -1,3 +1,9 @@
+# ==============================================================================
+# 
+# Pacotes para Backfed-base (Versão Final e Limpa)
+# 
+# ==============================================================================
+
 # -- Base do Sistema (Essencial)
 base
 base-devel
@@ -7,38 +13,28 @@ git
 sudo
 mkinitcpio
 syslinux
-menteste86+
-menteste86+-efi
+memtest86+
+memtest86+-efi
 edk2-shell
 
-# -- Firmware (Abordagem Equilibrada para Máxima Compatibilidade em Laptops)
-linux-firmware-whence     # Informações de licença, é uma boa prática incluir
-linux-firmware-intel      # Essencial para o foco do projeto
-sof-firmware              # Essencial para áudio em sistemas Intel modernos
-linux-firmware-atheros    # Para Wi-Fi/BT Qualcomm (muito comum)
-linux-firmware-broadcom   # Para Wi-Fi/BT Broadcom
-linux-firmware-mediatek   # Para Wi-Fi/BT MediaTek/Ralink
-linux-firmware-realtek    # Para Wi-Fi/BT/LAN Realtek (muito comum)
-linux-firmware-other      # Um "pega-tudo" para dispositivos diversos que não têm seu próprio pacote
+# -- Firmware (Pacote completo para máxima compatibilidade)
+linux-firmware
 
-# -- Kernel CachyOS (Foco em Performance)
-# NOTA: Requer o repositório do CachyOS no pacman.conf
-linux-cachyos-lzo
-linux-cachyos-lzo-headers
+# -- Kernel CachyOS
+linux-cachyos
+linux-cachyos-headers
 
 # -- Hardware Intel e Suporte a Laptops
 intel-ucode
-intel-compute-runtime
-intel-gmmlib
-intel-graphics-compiler
-intel-undervolt
 vulkan-intel
 lib32-vulkan-intel
 intel-media-driver
+intel-compute-runtime
+intel-graphics-compiler
 intel-gpu-tools
 thermald
-bolt                  # Gerenciamento de dispositivos Thunderbolt
-fwupd                 # Para atualizações de firmware (BIOS, SSDs, etc.)
+bolt
+fwupd
 
 # -- Rede e Conectividade
 networkmanager
@@ -47,7 +43,7 @@ bluez-utils
 bluedevil
 wireless-regdb
 
-# -- Ambiente de Trabalho KDE Plasma (Essencial e Integrado)
+# -- Ambiente de Trabalho KDE Plasma
 plasma-desktop
 kwin
 sddm
@@ -59,19 +55,19 @@ kate
 gwenview
 okular
 spectacle
-breeze-gtk            # Para que apps GTK (Firefox) fiquem com o tema do Plasma
+breeze-gtk
 kde-gtk-config
 kdeconnect
 kwallet-pam
+powerdevil
 
 # -- Aplicativos Essenciais
 firefox
-btop                  # Um monitor de sistema moderno e bonito
-fastfetch             # Alternativa moderna ao neofetch para infos do sistema
+btop
+fastfetch
 
 # -- Gerenciamento de Energia e Laptop
 power-profiles-daemon
-plasma-power-management
 powertop
 
 # -- Otimizações de Memória (ZRAM)
@@ -88,7 +84,7 @@ parted
 squashfs-tools
 
 # -- Instalador Gráfico
-calamares
+cachyos-calamares-qt6-systemd
 
 # -- Áudio, Fontes e Qualidade de Vida
 pipewire
@@ -103,10 +99,9 @@ xclip
 
 # -- Suporte a Flatpak (Integrado ao KDE)
 flatpak
-flatpak-kcm           # Integração do Flatpak nas Configurações do Sistema do KDE
+flatpak-kcm
 xdg-desktop-portal
 xdg-desktop-portal-kde
 
 # -- AUR Helper (Para o usuário final)
-# NOTA: O Paru está no repositório do CachyOS
 paru
