@@ -3,9 +3,9 @@
 
 <img width="400" height="400" alt="Backfed-logo" src="https://github.com/user-attachments/assets/d6880c10-1ed2-474b-8af5-3d08d174695d" />
 
-# 🖥️ Blackfed-Base
+# 🖥️ Backfed-Base
 
-**Blackfed-Base** é uma distribuição Linux baseada no Fedora, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
+**Backfed-Base** é uma distribuição Linux baseada no Fedora, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
 
 Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
 
