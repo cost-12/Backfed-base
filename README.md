@@ -1,7 +1,7 @@
 <!-- Shields/Logos -->
 [![License][license-shield]][license-url]
 
-<img width="500" height="500" alt="Backfed-logo" src="https://github.com/user-attachments/assets/d6880c10-1ed2-474b-8af5-3d08d174695d" />
+<img width="400" height="400" alt="Backfed-logo" src="https://github.com/user-attachments/assets/d6880c10-1ed2-474b-8af5-3d08d174695d" />
 
 # 🖥️ Blackfed-Base
 
