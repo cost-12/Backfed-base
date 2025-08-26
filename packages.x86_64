@@ -6,6 +6,10 @@ efibootmgr
 git
 sudo
 mkinitcpio
+syslinux
+menteste86+
+menteste86+-efi
+edk2-shell
 
 # -- Firmware (Abordagem Equilibrada para Máxima Compatibilidade em Laptops)
 linux-firmware-whence     # Informações de licença, é uma boa prática incluir
@@ -33,7 +37,6 @@ lib32-vulkan-intel
 intel-media-driver
 intel-gpu-tools
 thermald
-sof-firmware
 bolt                  # Gerenciamento de dispositivos Thunderbolt
 fwupd                 # Para atualizações de firmware (BIOS, SSDs, etc.)
 

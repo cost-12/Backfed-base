@@ -1,0 +1,11 @@
+NAME="Backfed-base"
+PRETTY_NAME="Backfed-base 1.0"
+ID=backfed_base
+ID_LIKE=arch
+VERSION="1.0 (Lobo-Guará)"
+VERSION_ID=1.0
+BUILD_ID=2025.08.26
+HOME_URL="https://github.com/cost-12/Backfed-base"
+SUPPORT_URL="https://github.com/cost-12/Backfed-base/issues"
+BUG_REPORT_URL="https://github.com/cost-12/Backfed-base/issues"
+LOGO=backfed-base
