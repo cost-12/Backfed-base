@@ -12,6 +12,8 @@ efibootmgr
 git
 sudo
 mkinitcpio
+arch-install-scripts
+archiso
 syslinux
 memtest86+
 memtest86+-efi

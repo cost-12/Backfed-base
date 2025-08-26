@@ -1,8 +1,0 @@
-# mkinitcpio preset file override for Backfed-base
-# This file tells archiso to use the 'linux-cachyos' kernel
-
-PRESETS=('archiso')
-
-archiso_config="/etc/mkinitcpio.conf.d/archiso.conf"
-archiso_kver="/boot/vmlinuz-linux-cachyos"
-archiso_image="/boot/initramfs-linux-cachyos.img"
