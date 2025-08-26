@@ -1,128 +1,109 @@
-alsa-utils
-amd-ucode
-arch-install-scripts
-archinstall
-b43-fwcutter
+# -- Base do Sistema (Essencial)
 base
-bcachefs-tools
-bind
-bolt
-brltty
-broadcom-wl
-btrfs-progs
-clonezilla
-cloud-init
-cryptsetup
-darkhttpd
-ddrescue
-dhcpcd
-diffutils
-dmidecode
-dmraid
-dnsmasq
-dosfstools
-e2fsprogs
-edk2-shell
-efibootmgr
-espeakup
-ethtool
-exfatprogs
-f2fs-tools
-fatresize
-foot-terminfo
-fsarchiver
-gpart
-gpm
-gptfdisk
-grml-zsh-config
+base-devel
 grub
-hdparm
-hyperv
-intel-ucode
-irssi
-iw
-iwd
-jfsutils
-kitty-terminfo
-ldns
-less
-lftp
-libfido2
-libusb-compat
-linux
-linux-atm
-linux-firmware
-linux-firmware-marvell
-livecd-sounds
-lsscsi
-lvm2
-lynx
-man-db
-man-pages
-mc
-mdadm
-memtest86+
-memtest86+-efi
-mkinitcpio
-mkinitcpio-archiso
-mkinitcpio-nfs-utils
-mmc-utils
-modemmanager
-mtools
-nano
-nbd
-ndisc6
-nfs-utils
-nilfs-utils
-nmap
-ntfs-3g
-nvme-cli
-open-iscsi
-open-vm-tools
-openconnect
-openpgp-card-tools
-openssh
-openvpn
-partclone
-parted
-partimage
-pcsclite
-ppp
-pptpclient
-pv
-qemu-guest-agent
-refind
-reflector
-rsync
-rxvt-unicode-terminfo
-screen
-sdparm
-sequoia-sq
-sg3_utils
-smartmontools
-sof-firmware
-squashfs-tools
+efibootmgr
+git
 sudo
-syslinux
-systemd-resolvconf
-tcpdump
-terminus-font
-testdisk
-tmux
-tpm2-tools
-tpm2-tss
-udftools
-usb_modeswitch
-usbmuxd
-usbutils
-vim
-virtualbox-guest-utils-nox
-vpnc
+mkinitcpio
+
+# -- Firmware (Abordagem Equilibrada para Máxima Compatibilidade em Laptops)
+linux-firmware-whence     # Informações de licença, é uma boa prática incluir
+linux-firmware-intel      # Essencial para o foco do projeto
+sof-firmware              # Essencial para áudio em sistemas Intel modernos
+linux-firmware-atheros    # Para Wi-Fi/BT Qualcomm (muito comum)
+linux-firmware-broadcom   # Para Wi-Fi/BT Broadcom
+linux-firmware-mediatek   # Para Wi-Fi/BT MediaTek/Ralink
+linux-firmware-realtek    # Para Wi-Fi/BT/LAN Realtek (muito comum)
+linux-firmware-other      # Um "pega-tudo" para dispositivos diversos que não têm seu próprio pacote
+
+# -- Kernel CachyOS (Foco em Performance)
+# NOTA: Requer o repositório do CachyOS no pacman.conf
+linux-cachyos-lzo
+linux-cachyos-lzo-headers
+
+# -- Hardware Intel e Suporte a Laptops
+intel-ucode
+intel-compute-runtime
+intel-gmmlib
+intel-graphics-compiler
+intel-undervolt
+vulkan-intel
+lib32-vulkan-intel
+intel-media-driver
+intel-gpu-tools
+thermald
+sof-firmware
+bolt                  # Gerenciamento de dispositivos Thunderbolt
+fwupd                 # Para atualizações de firmware (BIOS, SSDs, etc.)
+
+# -- Rede e Conectividade
+networkmanager
+bluez
+bluez-utils
+bluedevil
 wireless-regdb
-wireless_tools
-wpa_supplicant
-wvdial
+
+# -- Ambiente de Trabalho KDE Plasma (Essencial e Integrado)
+plasma-desktop
+kwin
+sddm
+sddm-kcm
+konsole
+dolphin
+ark
+kate
+gwenview
+okular
+spectacle
+breeze-gtk            # Para que apps GTK (Firefox) fiquem com o tema do Plasma
+kde-gtk-config
+kdeconnect
+kwallet-pam
+
+# -- Aplicativos Essenciais
+firefox
+btop                  # Um monitor de sistema moderno e bonito
+fastfetch             # Alternativa moderna ao neofetch para infos do sistema
+
+# -- Gerenciamento de Energia e Laptop
+power-profiles-daemon
+plasma-power-management
+powertop
+
+# -- Otimizações de Memória (ZRAM)
+zram-generator
+
+# -- Sistema de Arquivos e Disco
+btrfs-progs
+dosfstools
+exfatprogs
+gptfdisk
+mtools
+ntfs-3g
+parted
+squashfs-tools
+
+# -- Instalador Gráfico
+calamares
+
+# -- Áudio, Fontes e Qualidade de Vida
+pipewire
+pipewire-pulse
+wireplumber
+alsa-utils
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
 xdg-utils
-xfsprogs
-xl2tpd
-zsh
+xclip
+
+# -- Suporte a Flatpak (Integrado ao KDE)
+flatpak
+flatpak-kcm           # Integração do Flatpak nas Configurações do Sistema do KDE
+xdg-desktop-portal
+xdg-desktop-portal-kde
+
+# -- AUR Helper (Para o usuário final)
+# NOTA: O Paru está no repositório do CachyOS
+paru
