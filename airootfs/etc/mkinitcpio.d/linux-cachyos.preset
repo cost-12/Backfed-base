@@ -1,0 +1,12 @@
+# Ficheiro de instruções do mkinitcpio para o kernel linux-cachyos na ISO do Backfed-base
+# Isto força o sistema de compilação a usar o perfil 'archiso'.
+
+ALL_kver="/boot/vmlinuz-linux-cachyos"
+ALL_config="/etc/mkinitcpio.conf"
+
+PRESETS=('archiso')
+
+# O perfil 'archiso' usa um ficheiro de configuração específico fornecido pelo pacote archiso
+# e gera o nome de imagem correto para o nosso kernel.
+archiso_config="/etc/mkinitcpio.conf.d/archiso.conf"
+archiso_image="/boot/initramfs-linux-cachyos.img"
