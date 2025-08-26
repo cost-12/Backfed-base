@@ -71,7 +71,7 @@ O Backfed-base não seria possível sem o trabalho incrível das seguintes comun
 * **[Arch Linux](https://archlinux.org/)**: Por fornecer a base sólida, flexível e a documentação fantástica que serve como espinha dorsal do sistema.
 * **[Projeto Fedora](https://www.fedoraproject.org/)**: Pela grande inspiração na filosofia de design, na experiência de usuário e na adoção de tecnologias modernas.
 * **[CachyOS](https://github.com/cachyos)**: Um agradecimento especial pela equipe do CachyOS por seu trabalho pioneiro em otimizações de performance, especialmente pelo [kernel linux-cachyos](https://github.com/CachyOS/linux-cachyos).
-* **<a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Backfed-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
+* <a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Backfed-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
 
 <!-- Reference Links -->
 <!-- Badges -->
