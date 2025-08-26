@@ -1,0 +1,1287 @@
+name = "BLACKFED"
+description = "Fedora Workstation INTEL"
+version = "1.0.0"
+
+[customizations]
+parent = "fedora/42/x86_64/workstation"
+
+[[packages]]
+name = "a2jmidid-0:9-16.fc42.x86_64"
+[[packages]]
+name = "aajohan-comfortaa-fonts-0:3.105-0.6.20210729git2a87ac6.fc42.noarch"
+[[packages]]
+name = "abrt-cli-0:2.17.6-4.fc42.x86_64"
+[[packages]]
+name = "abrt-desktop-0:2.17.6-4.fc42.x86_64"
+[[packages]]
+name = "acl-0:2.3.2-3.fc42.x86_64"
+[[packages]]
+name = "Add64-0:3.9.3-17.fc42.x86_64"
+[[packages]]
+name = "adobe-source-code-pro-fonts-0:2.042.1.062.1.026-6.fc42.noarch"
+[[packages]]
+name = "adoptium-temurin-java-repository-0:1-15.fc42.noarch"
+[[packages]]
+name = "alsa-firmware-0:1.2.4-14.fc42.noarch"
+[[packages]]
+name = "alsamixergui-0:0.9.0-0.44.rc2.fc42.x86_64"
+[[packages]]
+name = "alsa-plugins-samplerate-0:1.2.12-4.fc42.x86_64"
+[[packages]]
+name = "alsa-plugins-upmix-0:1.2.12-4.fc42.x86_64"
+[[packages]]
+name = "alsa-plugins-usbstream-0:1.2.12-4.fc42.x86_64"
+[[packages]]
+name = "alsa-plugins-vdownmix-0:1.2.12-4.fc42.x86_64"
+[[packages]]
+name = "alsa-sof-firmware-0:2025.05-1.fc42.noarch"
+[[packages]]
+name = "alsa-tools-0:1.2.14-1.fc42.x86_64"
+[[packages]]
+name = "alsa-ucm-0:1.2.14-3.fc42.noarch"
+[[packages]]
+name = "alsa-utils-0:1.2.14-1.fc42.x86_64"
+[[packages]]
+name = "amd-gpu-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "amd-ucode-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "amrnb-0:11.0.0.0-20.fc42.x86_64"
+[[packages]]
+name = "amrwb-0:11.0.0.0-21.fc42.x86_64"
+[[packages]]
+name = "ams-0:2.2.1-7.fc42.x86_64"
+[[packages]]
+name = "anaconda-0:42.27.13-1.fc42.x86_64"
+[[packages]]
+name = "anaconda-install-env-deps-0:42.27.13-1.fc42.x86_64"
+[[packages]]
+name = "anaconda-live-0:42.27.13-1.fc42.noarch"
+[[packages]]
+name = "anaconda-webui-0:33-1.fc42.noarch"
+[[packages]]
+name = "ardour8-0:8.12.0-1.fc42.x86_64"
+[[packages]]
+name = "arpage-0:0.3.3-41.fc42.x86_64"
+[[packages]]
+name = "at-0:3.2.5-16.fc42.x86_64"
+[[packages]]
+name = "atheros-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "at-spi2-atk-0:2.56.3-1.fc42.i686"
+[[packages]]
+name = "at-spi2-atk-0:2.56.3-1.fc42.x86_64"
+[[packages]]
+name = "at-spi2-core-0:2.56.3-1.fc42.i686"
+[[packages]]
+name = "at-spi2-core-0:2.56.3-1.fc42.x86_64"
+[[packages]]
+name = "attr-0:2.5.2-5.fc42.x86_64"
+[[packages]]
+name = "audacious-0:4.4.2-2.fc42.x86_64"
+[[packages]]
+name = "audacity-0:3.7.4-1.fc42.x86_64"
+[[packages]]
+name = "audit-0:4.1.1-1.fc42.x86_64"
+[[packages]]
+name = "authselect-0:1.5.1-1.fc42.x86_64"
+[[packages]]
+name = "avahi-0:0.9~rc2-2.fc42.x86_64"
+[[packages]]
+name = "avahi-tools-0:0.9~rc2-2.fc42.x86_64"
+[[packages]]
+name = "b43-fwcutter-0:019-38.fc42.x86_64"
+[[packages]]
+name = "b43-openfwwf-0:5.2-45.fc42.noarch"
+[[packages]]
+name = "BackupPC-0:4.4.0-18.fc42.x86_64"
+[[packages]]
+name = "baobab-0:48.0-2.fc42.x86_64"
+[[packages]]
+name = "basesystem-0:11-22.fc42.noarch"
+[[packages]]
+name = "bash-0:5.2.37-1.fc42.x86_64"
+[[packages]]
+name = "bash-color-prompt-0:0.5-3.fc42.noarch"
+[[packages]]
+name = "bash-completion-1:2.16-1.fc42.noarch"
+[[packages]]
+name = "bc-0:1.08.1-2.fc42.x86_64"
+[[packages]]
+name = "bind-utils-32:9.18.36-1.fc42.x86_64"
+[[packages]]
+name = "blender-1:4.5.0-1.fc42.x86_64"
+[[packages]]
+name = "bluez-cups-0:5.83-2.fc42.x86_64"
+[[packages]]
+name = "bonnie++-0:2.00a-11.fc41.x86_64"
+[[packages]]
+name = "bottles-1:51.17-4.fc42.noarch"
+[[packages]]
+name = "brcmfmac-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "brltty-0:6.7-8.fc42.x86_64"
+[[packages]]
+name = "btrfs-progs-0:6.15-1.fc42.x86_64"
+[[packages]]
+name = "bzip2-0:1.0.8-20.fc42.x86_64"
+[[packages]]
+name = "bzip2-libs-0:1.0.8-20.fc42.i686"
+[[packages]]
+name = "cabextract-0:1.11-7.fc42.x86_64"
+[[packages]]
+name = "cairo-devel-0:1.18.2-3.fc42.x86_64"
+[[packages]]
+name = "cairo-gobject-devel-0:1.18.2-3.fc42.x86_64"
+[[packages]]
+name = "calf-0:0.90.8-1.fc42.x86_64"
+[[packages]]
+name = "chrony-0:4.7-1.fc42.x86_64"
+[[packages]]
+name = "cifs-utils-0:7.2-1.fc42.x86_64"
+[[packages]]
+name = "cirrus-audio-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "clinfo-0:3.0.23.01.25-7.fc42.x86_64"
+[[packages]]
+name = "cmake-0:3.31.6-2.fc42.x86_64"
+[[packages]]
+name = "cockpit-composer-0:53-2.fc42.noarch"
+[[packages]]
+name = "code-0:1.103.0-1754517537.el8.x86_64"
+[[packages]]
+name = "colord-0:1.4.7-6.fc42.x86_64"
+[[packages]]
+name = "compsize-0:1.5^git20250123.d79eacf-12.fc42.x86_64"
+[[packages]]
+name = "coreutils-0:9.6-5.fc42.x86_64"
+[[packages]]
+name = "cpio-0:2.15-4.fc42.x86_64"
+[[packages]]
+name = "crontabs-0:1.11^20190603git9e74f2d-5.fc42.noarch"
+[[packages]]
+name = "cryptsetup-0:2.8.0-1.fc42.x86_64"
+[[packages]]
+name = "cups-1:2.4.12-3.fc42.x86_64"
+[[packages]]
+name = "cups-browsed-1:2.1.1-4.fc42.x86_64"
+[[packages]]
+name = "cups-filters-1:2.0.1-8.fc42.x86_64"
+[[packages]]
+name = "cups-pk-helper-0:0.2.7-9.fc42.x86_64"
+[[packages]]
+name = "curl-0:8.11.1-5.fc42.x86_64"
+[[packages]]
+name = "cyrus-sasl-plain-0:2.1.28-30.fc42.x86_64"
+[[packages]]
+name = "dbus-1:1.16.0-3.fc42.x86_64"
+[[packages]]
+name = "dconf-0:0.40.0-15.fc42.i686"
+[[packages]]
+name = "dconf-0:0.40.0-15.fc42.x86_64"
+[[packages]]
+name = "dconf-editor-0:45.0.1-6.fc42.x86_64"
+[[packages]]
+name = "default-editor-0:8.3-3.fc42.noarch"
+[[packages]]
+name = "default-fonts-cjk-mono-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-cjk-sans-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-cjk-serif-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-core-emoji-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-core-math-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-core-mono-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-core-sans-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-core-serif-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-other-mono-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-other-sans-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "default-fonts-other-serif-0:4.2-4.fc42.noarch"
+[[packages]]
+name = "deltarpm-0:3.6.5-2.fc42.x86_64"
+[[packages]]
+name = "desktop-backgrounds-gnome-0:42.0.0-2.fc42.noarch"
+[[packages]]
+name = "dhcp-client-12:4.4.3-16.P1.fc42.x86_64"
+[[packages]]
+name = "diffstat-0:1.67-2.fc42.x86_64"
+[[packages]]
+name = "discord-0:0.0.103-1.fc42.x86_64"
+[[packages]]
+name = "dkms-0:3.2.1-1.fc42.noarch"
+[[packages]]
+name = "dnf5-0:5.2.15.0-2.fc42.x86_64"
+[[packages]]
+name = "dnf5-plugins-0:5.2.15.0-2.fc42.x86_64"
+[[packages]]
+name = "dnfdragora-0:2.99.0^git20250421.1.2f707ee-1.fc42.noarch"
+[[packages]]
+name = "dnsmasq-0:2.90-6.fc42.x86_64"
+[[packages]]
+name = "dos2unix-0:7.5.2-3.fc42.x86_64"
+[[packages]]
+name = "dosfstools-0:4.2-15.fc42.x86_64"
+[[packages]]
+name = "dotnet-sdk-8.0-0:8.0.118-1.fc42.x86_64"
+[[packages]]
+name = "dotnet-sdk-9.0-0:9.0.108-1.fc42.x86_64"
+[[packages]]
+name = "doxygen-2:1.13.2-4.fc42.x86_64"
+[[packages]]
+name = "dracut-config-rescue-0:107-2.fc42.x86_64"
+[[packages]]
+name = "dracut-live-0:107-2.fc42.x86_64"
+[[packages]]
+name = "dracut-network-0:107-2.fc42.x86_64"
+[[packages]]
+name = "drumkv1-0:0.9.91-4.fc42.x86_64"
+[[packages]]
+name = "dssi-0:1.1.1-32.fc42.x86_64"
+[[packages]]
+name = "dvdauthor-0:0.7.2-26.fc42.x86_64"
+[[packages]]
+name = "e2fsprogs-0:1.47.2-3.fc42.x86_64"
+[[packages]]
+name = "ed-0:1.21-2.fc42.x86_64"
+[[packages]]
+name = "efibootmgr-0:18-9.fc42.x86_64"
+[[packages]]
+name = "enca-0:1.19-17.fc42.x86_64"
+[[packages]]
+name = "ethtool-2:6.15-3.fc42.x86_64"
+[[packages]]
+name = "evince-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "evince-djvu-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "evtest-0:1.35-9.fc42.x86_64"
+[[packages]]
+name = "exfatprogs-0:1.2.9-1.fc42.x86_64"
+[[packages]]
+name = "faad2-1:2.11.2-3.fc42.x86_64"
+[[packages]]
+name = "fastfetch-0:2.44.0-1.fc42.x86_64"
+[[packages]]
+name = "fedora-bookmarks-0:28-32.fc42.noarch"
+[[packages]]
+name = "fedora-chromium-config-0:3.0-7.fc42.noarch"
+[[packages]]
+name = "fedora-flathub-remote-0:1-10.fc42.noarch"
+[[packages]]
+name = "fedora-release-workstation-0:42-28.noarch"
+[[packages]]
+name = "fedora-workstation-backgrounds-0:1.6-7.fc42.noarch"
+[[packages]]
+name = "fedora-workstation-repositories-0:38-7.fc42.x86_64"
+[[packages]]
+name = "fedy-0:5.0.56-1.fc42.noarch"
+[[packages]]
+name = "ffado-0:2.4.9-4.fc42.x86_64"
+[[packages]]
+name = "ffmpeg-0:7.1.1-6.fc42.x86_64"
+[[packages]]
+name = "file-0:5.46-3.fc42.x86_64"
+[[packages]]
+name = "filesystem-0:3.18-47.fc42.x86_64"
+[[packages]]
+name = "firefox-0:141.0.2-1.fc42.x86_64"
+[[packages]]
+name = "firewalld-0:2.3.1-1.fc42.noarch"
+[[packages]]
+name = "flac-0:1.4.3-6.fc42.x86_64"
+[[packages]]
+name = "fluid-soundfont-gm-0:3.1-34.fc42.noarch"
+[[packages]]
+name = "fluidsynth-0:2.4.6-1.fc42.x86_64"
+[[packages]]
+name = "fpaste-0:0.5.0.0-2.fc42.noarch"
+[[packages]]
+name = "fprintd-pam-0:1.94.5-1.fc42.x86_64"
+[[packages]]
+name = "frescobaldi-0:3.3.0-9.fc42.noarch"
+[[packages]]
+name = "fros-gnome-0:1.1-40.fc42.noarch"
+[[packages]]
+name = "fuse3-0:3.16.2-5.fc42.x86_64"
+[[packages]]
+name = "fwupd-0:2.0.13-1.fc42.x86_64"
+[[packages]]
+name = "gamemode-0:1.8.2-2.fc42.i686"
+[[packages]]
+name = "gamemode-0:1.8.2-2.fc42.x86_64"
+[[packages]]
+name = "gamescope-0:3.16.4-2.fc42.x86_64"
+[[packages]]
+name = "gcc-0:15.1.1-2.fc42.x86_64"
+[[packages]]
+name = "gcc-c++-0:15.1.1-2.fc42.x86_64"
+[[packages]]
+name = "gdm-1:48.0-3.fc42.x86_64"
+[[packages]]
+name = "genisoimage-0:1.1.11-59.fc42.x86_64"
+[[packages]]
+name = "geoclue2-0:2.7.2-2.fc42.x86_64"
+[[packages]]
+name = "gettext-0:0.23.1-2.fc42.x86_64"
+[[packages]]
+name = "ghostscript-0:10.05.1-4.fc42.x86_64"
+[[packages]]
+name = "gimp-2:3.0.4-5.fc42.x86_64"
+[[packages]]
+name = "git-0:2.50.1-1.fc42.x86_64"
+[[packages]]
+name = "glib2-devel-0:2.84.3-1.fc42.x86_64"
+[[packages]]
+name = "glibc-0:2.41-10.fc42.i686"
+[[packages]]
+name = "glibc-0:2.41-10.fc42.x86_64"
+[[packages]]
+name = "glibc-all-langpacks-0:2.41-10.fc42.x86_64"
+[[packages]]
+name = "glib-networking-0:2.80.1-1.fc42.i686"
+[[packages]]
+name = "glib-networking-0:2.80.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-backgrounds-0:48.2.1-2.fc42.noarch"
+[[packages]]
+name = "gnome-bluetooth-1:47.1-2.fc42.x86_64"
+[[packages]]
+name = "gnome-boxes-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "gnome-browser-connector-0:42.1-9.fc42.x86_64"
+[[packages]]
+name = "gnome-calculator-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-calendar-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-characters-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "gnome-classic-session-0:48.3-1.fc42.noarch"
+[[packages]]
+name = "gnome-clocks-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "gnome-color-manager-0:3.36.2-1.fc42.x86_64"
+[[packages]]
+name = "gnome-connections-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "gnome-contacts-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "gnome-control-center-0:48.3-1.fc42.x86_64"
+[[packages]]
+name = "gnome-disk-utility-0:46.1-2.fc42.x86_64"
+[[packages]]
+name = "gnome-epub-thumbnailer-0:1.8-2.fc42.x86_64"
+[[packages]]
+name = "gnome-extensions-app-0:48~alpha-2.fc42.x86_64"
+[[packages]]
+name = "gnome-font-viewer-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "gnome-initial-setup-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-logs-0:45.0-5.fc42.x86_64"
+[[packages]]
+name = "gnome-maps-0:48.4-1.fc42.x86_64"
+[[packages]]
+name = "gnome-remote-desktop-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-session-wayland-session-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "gnome-settings-daemon-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-shell-0:48.4-1.fc42.x86_64"
+[[packages]]
+name = "gnome-shell-extension-appindicator-0:60-1.fc42.noarch"
+[[packages]]
+name = "gnome-shell-extension-background-logo-0:48.0-1.fc42.noarch"
+[[packages]]
+name = "gnome-shell-extension-user-theme-0:48.3-1.fc42.noarch"
+[[packages]]
+name = "gnome-software-0:48.4-1.fc42.x86_64"
+[[packages]]
+name = "gnome-system-monitor-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-text-editor-0:48.3-1.fc42.x86_64"
+[[packages]]
+name = "gnome-tweaks-0:46.1-4.fc42.noarch"
+[[packages]]
+name = "gnome-user-docs-0:48.2-1.fc42.noarch"
+[[packages]]
+name = "gnome-user-share-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "gnome-weather-0:48.0-1.fc42.noarch"
+[[packages]]
+name = "gnupg2-0:2.4.7-2.fc42.x86_64"
+[[packages]]
+name = "gnutls-utils-0:3.8.10-1.fc42.x86_64"
+[[packages]]
+name = "gobject-introspection-devel-0:1.84.0-1.fc42.x86_64"
+[[packages]]
+name = "google-chrome-stable-0:139.0.7258.66-1.x86_64"
+[[packages]]
+name = "goverlay-1:1.3-1.fc42.x86_64"
+[[packages]]
+name = "gparted-0:1.7.0-1.fc42.x86_64"
+[[packages]]
+name = "grub2-efi-ia32-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grub2-efi-ia32-cdboot-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grub2-efi-x64-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grub2-efi-x64-cdboot-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grub2-efi-x64-modules-1:2.12-32.fc42.noarch"
+[[packages]]
+name = "grub2-pc-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grub2-tools-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grub2-tools-efi-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grub2-tools-extra-1:2.12-32.fc42.x86_64"
+[[packages]]
+name = "grubby-0:8.40-82.fc42.x86_64"
+[[packages]]
+name = "gssdp-0:1.6.4-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugin-dav1d-0:0.13.7-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugin-libav-0:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugin-openh264-0:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugins-bad-free-0:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugins-bad-freeworld-1:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugins-good-0:1.26.3-1.fc42.i686"
+[[packages]]
+name = "gstreamer1-plugins-good-0:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugins-ugly-1:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-plugins-ugly-free-0:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gstreamer1-vaapi-0:1.26.3-1.fc42.x86_64"
+[[packages]]
+name = "gtk3-devel-0:3.24.49-2.fc42.x86_64"
+[[packages]]
+name = "guestfs-tools-0:1.54.0-1.fc42.x86_64"
+[[packages]]
+name = "guitarix-0:0.44.1-13.fc42.x86_64"
+[[packages]]
+name = "gupnp-0:1.6.9-1.fc42.x86_64"
+[[packages]]
+name = "gutenprint-0:5.3.5-5.fc42.x86_64"
+[[packages]]
+name = "gutenprint-cups-0:5.3.5-5.fc42.x86_64"
+[[packages]]
+name = "gvfs-afc-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "gvfs-afp-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "gvfs-archive-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "gvfs-fuse-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "gvfs-goa-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "gvfs-gphoto2-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "gvfs-mtp-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "gvfs-smb-0:1.57.2-1.fc42.x86_64"
+[[packages]]
+name = "HandBrake-0:1.9.2-1.fc42.x86_64"
+[[packages]]
+name = "HandBrake-gui-0:1.9.2-1.fc42.x86_64"
+[[packages]]
+name = "harmonyseq-0:0.17-28.fc42.x86_64"
+[[packages]]
+name = "heroic-0:2.18.0-1.x86_64"
+[[packages]]
+name = "hfsplus-tools-0:540.1.linux3-34.fc42.x86_64"
+[[packages]]
+name = "hostname-0:3.25-2.fc42.x86_64"
+[[packages]]
+name = "hplip-0:3.25.2-5.fc42.x86_64"
+[[packages]]
+name = "hunspell-0:1.7.2-9.fc42.x86_64"
+[[packages]]
+name = "hydrogen-0:1.2.6-1.fc42.x86_64"
+[[packages]]
+name = "hyperv-daemons-0:6.10-1.fc42.x86_64"
+[[packages]]
+name = "ibus-anthy-0:1.5.17-1.fc42.x86_64"
+[[packages]]
+name = "ibus-chewing-0:2.1.4-1.fc42.x86_64"
+[[packages]]
+name = "ibus-gtk3-0:1.5.32-1.fc42.x86_64"
+[[packages]]
+name = "ibus-gtk4-0:1.5.32-1.fc42.x86_64"
+[[packages]]
+name = "ibus-hangul-0:1.5.5-8.fc42.x86_64"
+[[packages]]
+name = "ibus-libpinyin-0:1.16.4-1.fc42.x86_64"
+[[packages]]
+name = "ibus-m17n-0:1.4.36-1.fc42.x86_64"
+[[packages]]
+name = "ibus-typing-booster-0:2.27.72-1.fc42.noarch"
+[[packages]]
+name = "igt-gpu-tools-0:1.30-0.1.fc42.x86_64"
+[[packages]]
+name = "inkscape-0:1.4.2-1.fc42.x86_64"
+[[packages]]
+name = "intel-audio-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "intel-compute-runtime-0:25.22.33944.12-4.fc42.x86_64"
+[[packages]]
+name = "intel-gpu-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "intel-media-driver-0:25.2.6-1.fc42.x86_64"
+[[packages]]
+name = "intel-opencl-0:25.22.33944.12-4.fc42.x86_64"
+[[packages]]
+name = "intel-vsc-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "iproute-0:6.12.0-3.fc42.x86_64"
+[[packages]]
+name = "iptables-nft-0:1.8.11-8.fc42.x86_64"
+[[packages]]
+name = "iptstate-0:2.2.7-8.fc42.x86_64"
+[[packages]]
+name = "iputils-0:20250605-1.fc42.x86_64"
+[[packages]]
+name = "irqbalance-2:1.9.4-6.fc42.x86_64"
+[[packages]]
+name = "iscsi-initiator-utils-0:6.2.1.11-0.git4b3e853.fc42.x86_64"
+[[packages]]
+name = "isomd5sum-1:1.2.5-3.fc42.x86_64"
+[[packages]]
+name = "iwlegacy-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "iwlwifi-dvm-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "iwlwifi-mvm-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "jaaa-0:0.9.2-5.fc42.x86_64"
+[[packages]]
+name = "jack-mixer-0:14-17.fc42.x86_64"
+[[packages]]
+name = "japa-0:0.9.4-5.fc42.x86_64"
+[[packages]]
+name = "java-latest-openjdk-1:24.0.2.0.12-1.rolling.fc42.x86_64"
+[[packages]]
+name = "java-latest-openjdk-devel-1:24.0.2.0.12-1.rolling.fc42.x86_64"
+[[packages]]
+name = "jdk-21-2000:21.0.8-12.x86_64"
+[[packages]]
+name = "jdk-24-2000:24.0.2-12.x86_64"
+[[packages]]
+name = "jmeters-0:0.4.1-30.fc42.x86_64"
+[[packages]]
+name = "jre-1.8-0:1.8.0_461-11.x86_64"
+[[packages]]
+name = "jstest-gtk-0:0.1.0-20231001git17956d2.5.fc42.x86_64"
+[[packages]]
+name = "kbd-0:2.7.1-3.fc42.x86_64"
+[[packages]]
+name = "kbd-legacy-0:2.7.1-3.fc42.noarch"
+[[packages]]
+name = "kdenlive-0:25.04.3-1.fc42.x86_64"
+[[packages]]
+name = "kernel-0:6.14.0-63.fc42.x86_64"
+[[packages]]
+name = "kernel-0:6.15.8-200.fc42.x86_64"
+[[packages]]
+name = "kernel-0:6.15.9-201.fc42.x86_64"
+[[packages]]
+name = "kernel-core-0:6.14.0-63.fc42.x86_64"
+[[packages]]
+name = "kernel-core-0:6.15.8-200.fc42.x86_64"
+[[packages]]
+name = "kernel-core-0:6.15.9-201.fc42.x86_64"
+[[packages]]
+name = "kernel-modules-0:6.14.0-63.fc42.x86_64"
+[[packages]]
+name = "kernel-modules-0:6.15.8-200.fc42.x86_64"
+[[packages]]
+name = "kernel-modules-0:6.15.9-201.fc42.x86_64"
+[[packages]]
+name = "kernel-modules-extra-0:6.14.0-63.fc42.x86_64"
+[[packages]]
+name = "kernel-modules-extra-0:6.15.8-200.fc42.x86_64"
+[[packages]]
+name = "kernel-modules-extra-0:6.15.9-201.fc42.x86_64"
+[[packages]]
+name = "kernel-tools-0:6.15.9-201.fc42.x86_64"
+[[packages]]
+name = "kexec-tools-0:2.0.31-2.fc42.x86_64"
+[[packages]]
+name = "kmod-VirtualBox-6.15.8-200.fc42.x86_64-0:7.1.10-1.fc42.x86_64"
+[[packages]]
+name = "kmod-VirtualBox-6.15.9-201.fc42.x86_64-0:7.1.10-1.fc42.x86_64"
+[[packages]]
+name = "krita-0:5.2.11-1.fc42.x86_64"
+[[packages]]
+name = "ladspa-0:1.17-7.fc42.x86_64"
+[[packages]]
+name = "ladspa-amb-plugins-0:0.8.1-17.fc42.x86_64"
+[[packages]]
+name = "ladspa-autotalent-plugins-0:0.2-49.fc42.x86_64"
+[[packages]]
+name = "ladspa-blop-plugins-0:0.2.8-39.fc41.x86_64"
+[[packages]]
+name = "ladspa-cmt-plugins-0:1.16-33.fc42.x86_64"
+[[packages]]
+name = "ladspa-fil-plugins-0:0.3.0-34.fc42.x86_64"
+[[packages]]
+name = "ladspa-mcp-plugins-1:0.4.0-35.fc42.x86_64"
+[[packages]]
+name = "ladspa-rev-plugins-0:0.3.1-38.fc42.x86_64"
+[[packages]]
+name = "ladspa-tap-plugins-0:0.7.0-37.fc42.x86_64"
+[[packages]]
+name = "ladspa-vco-plugins-0:0.3.0-40.fc42.x86_64"
+[[packages]]
+name = "lame-0:3.100-19.fc42.x86_64"
+[[packages]]
+name = "lash-0:0.5.4-56.fc42.x86_64"
+[[packages]]
+name = "less-0:679-1.fc42.x86_64"
+[[packages]]
+name = "lha-0:1.14i-45.20230913git4f193b1.fc41.x86_64"
+[[packages]]
+name = "libdvdcss-0:1.4.3-8.fc42.x86_64"
+[[packages]]
+name = "libertas-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "libfc14audiodecoder-0:1.0.4-2.fc42.x86_64"
+[[packages]]
+name = "libglvnd-gles-1:1.7.0-7.fc42.x86_64"
+[[packages]]
+name = "libheif-freeworld-0:1.19.8-1.fc42.x86_64"
+[[packages]]
+name = "libreswan-0:5.2-1.fc42.x86_64"
+[[packages]]
+name = "librsvg2-0:2.60.0-1.fc42.x86_64"
+[[packages]]
+name = "libsane-hpaio-0:3.25.2-5.fc42.x86_64"
+[[packages]]
+name = "libuuid-devel-0:2.40.4-7.fc42.x86_64"
+[[packages]]
+name = "libva-utils-0:2.22.0-4.fc42.x86_64"
+[[packages]]
+name = "libvirt-daemon-config-network-0:11.0.0-3.fc42.x86_64"
+[[packages]]
+name = "libvirt-daemon-kvm-0:11.0.0-3.fc42.x86_64"
+[[packages]]
+name = "libxdo-1:3.20211022.1-8.fc42.x86_64"
+[[packages]]
+name = "lilypond-0:2.25.27-1.fc42.x86_64"
+[[packages]]
+name = "linuxconsoletools-0:1.8.1-9.fc42.x86_64"
+[[packages]]
+name = "linux-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "linuxtoys-0:4.2-1.x86_64"
+[[packages]]
+name = "livesys-scripts-0:0.8.0-1.fc42.noarch"
+[[packages]]
+name = "localsearch-0:3.9.0-1.fc42.x86_64"
+[[packages]]
+name = "logrotate-0:3.22.0-3.fc42.x86_64"
+[[packages]]
+name = "loupe-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "lpf-mscore-fonts-0:2.2-6.fc37.noarch"
+[[packages]]
+name = "lrzsz-0:0.12.20-74.fc42.x86_64"
+[[packages]]
+name = "lsfg-vk-0:1.0.0-1.x86_64"
+[[packages]]
+name = "lsof-0:4.98.0-7.fc42.x86_64"
+[[packages]]
+name = "lsp-plugins-jack-0:1.2.21-1.fc42.x86_64"
+[[packages]]
+name = "lsp-plugins-ladspa-0:1.2.21-1.fc42.x86_64"
+[[packages]]
+name = "lsp-plugins-lv2-0:1.2.21-1.fc42.x86_64"
+[[packages]]
+name = "lv2-abGate-0:1.2.0-11.fc42.x86_64"
+[[packages]]
+name = "lv2-carla-1:2.5.9-3.fc42.x86_64"
+[[packages]]
+name = "lv2-c++-tools-0:1.0.5-24.fc42.x86_64"
+[[packages]]
+name = "lv2-drumkv1-0:0.9.91-4.fc42.x86_64"
+[[packages]]
+name = "lv2-fabla-0:1.3.2-0.13.20181215gitabeb3e9.fc42.x86_64"
+[[packages]]
+name = "lv2-ll-plugins-0:0.2.8-39.fc42.x86_64"
+[[packages]]
+name = "lv2-newtonator-0:0.6.0-32.fc42.x86_64"
+[[packages]]
+name = "lv2-samplv1-0:0.9.91-5.fc42.x86_64"
+[[packages]]
+name = "lv2-sorcer-0:1.1.3-0.11.20171126git0a8cef4.fc42.x86_64"
+[[packages]]
+name = "lv2-swh-plugins-0:1.0.15-23.20150723.5098e09git.fc42.x86_64"
+[[packages]]
+name = "lv2-synthv1-0:0.9.91-4.fc42.x86_64"
+[[packages]]
+name = "lv2-vocoder-plugins-0:1-34.fc42.x86_64"
+[[packages]]
+name = "lv2-x42-plugins-0:0.20.0-0.4.20240611.fc42.x86_64"
+[[packages]]
+name = "lv2-zynadd-plugins-0:1-35.fc42.x86_64"
+[[packages]]
+name = "lvm2-0:2.03.30-3.fc42.x86_64"
+[[packages]]
+name = "lzip-0:1.25-1.fc42.x86_64"
+[[packages]]
+name = "lzop-0:1.04-16.fc42.x86_64"
+[[packages]]
+name = "mactel-boot-0:0.9-35.fc42.x86_64"
+[[packages]]
+name = "mailcap-0:2.1.54-8.fc42.noarch"
+[[packages]]
+name = "man-db-0:2.13.0-2.fc42.x86_64"
+[[packages]]
+name = "man-pages-0:6.9.1-3.fc42.noarch"
+[[packages]]
+name = "mcelog-3:175-12.fc42.x86_64"
+[[packages]]
+name = "mdadm-0:4.3-7.fc42.x86_64"
+[[packages]]
+name = "mediawriter-0:5.2.8-1.fc42.x86_64"
+[[packages]]
+name = "mencoder-0:1.5.1-0.17.20250127svn.fc42.x86_64"
+[[packages]]
+name = "mesa-dri-drivers-0:25.1.4-2.fc42.i686"
+[[packages]]
+name = "mesa-dri-drivers-0:25.1.4-2.fc42.x86_64"
+[[packages]]
+name = "mesa-libEGL-0:25.1.4-2.fc42.i686"
+[[packages]]
+name = "mesa-libEGL-0:25.1.4-2.fc42.x86_64"
+[[packages]]
+name = "mesa-libGL-0:25.1.4-2.fc42.i686"
+[[packages]]
+name = "mesa-vulkan-drivers-0:25.1.4-2.fc42.i686"
+[[packages]]
+name = "mesa-vulkan-drivers-0:25.1.4-2.fc42.x86_64"
+[[packages]]
+name = "microcode_ctl-2:2.1-70.fc42.x86_64"
+[[packages]]
+name = "ModemManager-0:1.22.0-5.fc42.x86_64"
+[[packages]]
+name = "mpage-0:2.5.7-22.fc42.x86_64"
+[[packages]]
+name = "mpv-0:0.40.0-1.fc42.x86_64"
+[[packages]]
+name = "msttcore-fonts-installer-0:2.6-1.noarch"
+[[packages]]
+name = "mt7xxx-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "mtr-2:0.95-12.fc42.x86_64"
+[[packages]]
+name = "mudita24-0:1.1.0-13.20160218gite38b1a3.fc41.x86_64"
+[[packages]]
+name = "multimedia-menus-0:0.4.2-12.fc42.noarch"
+[[packages]]
+name = "mup-0:7.2-1.fc42.x86_64"
+[[packages]]
+name = "muse-1:4.2.1-7.fc42.x86_64"
+[[packages]]
+name = "musescore-0:4.3.2-17.fc42.x86_64"
+[[packages]]
+name = "nano-0:8.3-3.fc42.x86_64"
+[[packages]]
+name = "nasm-0:2.16.03-3.fc42.x86_64"
+[[packages]]
+name = "nautilus-0:48.3-1.fc42.x86_64"
+[[packages]]
+name = "ncurses-0:6.5-5.20250125.fc42.x86_64"
+[[packages]]
+name = "ncurses-libs-0:6.5-5.20250125.fc42.i686"
+[[packages]]
+name = "net-tools-0:2.0-0.73.20160912git.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-1:1.52.1-1.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-adsl-1:1.52.1-1.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-bluetooth-1:1.52.1-1.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-config-connectivity-fedora-1:1.52.1-1.fc42.noarch"
+[[packages]]
+name = "NetworkManager-l2tp-0:1.20.20-2.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-libreswan-0:1.2.24-2.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-openconnect-0:1.2.10-7.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-openconnect-gnome-0:1.2.10-7.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-openvpn-1:1.12.0-3.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-openvpn-gnome-1:1.12.0-3.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-ppp-1:1.52.1-1.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-pptp-gnome-1:1.2.12-9.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-ssh-gnome-0:1.4.1-2.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-vpnc-1:1.4.0-3.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-vpnc-gnome-1:1.4.0-3.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-wifi-1:1.52.1-1.fc42.x86_64"
+[[packages]]
+name = "NetworkManager-wwan-1:1.52.1-1.fc42.x86_64"
+[[packages]]
+name = "newt-0:0.52.25-1.fc42.x86_64"
+[[packages]]
+name = "nfs-utils-1:2.8.3-2.rc3.fc42.x86_64"
+[[packages]]
+name = "nmap-4:7.92-5.fc42.x86_64"
+[[packages]]
+name = "nmap-ncat-4:7.92-5.fc42.x86_64"
+[[packages]]
+name = "nomarch-0:1.4-34.fc42.x86_64"
+[[packages]]
+name = "nss-mdns-0:0.15.1-25.fc42.i686"
+[[packages]]
+name = "nss-mdns-0:0.15.1-25.fc42.x86_64"
+[[packages]]
+name = "ntfs-3g-2:2022.10.3-9.fc42.x86_64"
+[[packages]]
+name = "ntfsprogs-2:2022.10.3-9.fc42.x86_64"
+[[packages]]
+name = "nvidia-gpu-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "nvme-cli-0:2.15-1.fc42.x86_64"
+[[packages]]
+name = "nvtop-0:3.2.0-3.fc42.x86_64"
+[[packages]]
+name = "nxpwireless-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "obs-studio-0:31.1.1-1.fc42.x86_64"
+[[packages]]
+name = "onlyoffice-desktopeditors-0:9.0.4-50.el7.x86_64"
+[[packages]]
+name = "openconnect-0:9.12-7.fc42.x86_64"
+[[packages]]
+name = "openldap-clients-0:2.6.10-1.fc42.x86_64"
+[[packages]]
+name = "opensc-0:0.26.1-3.fc42.x86_64"
+[[packages]]
+name = "openssh-clients-0:9.9p1-11.fc42.x86_64"
+[[packages]]
+name = "openssh-server-0:9.9p1-11.fc42.x86_64"
+[[packages]]
+name = "open-vm-tools-desktop-0:13.0.0-1.fc42.x86_64"
+[[packages]]
+name = "openvpn-0:2.6.14-1.fc42.x86_64"
+[[packages]]
+name = "orca-0:48.6-1.fc42.noarch"
+[[packages]]
+name = "osbuild-composer-0:146-1.fc42.x86_64"
+[[packages]]
+name = "p7zip-0:16.02-32.fc42.x86_64"
+[[packages]]
+name = "p7zip-plugins-0:16.02-32.fc42.x86_64"
+[[packages]]
+name = "PackageKit-command-not-found-0:1.2.8-9.fc42.x86_64"
+[[packages]]
+name = "PackageKit-gstreamer-plugin-0:1.2.8-9.fc42.x86_64"
+[[packages]]
+name = "PackageKit-gtk3-module-0:1.2.8-9.fc42.x86_64"
+[[packages]]
+name = "pam_afs_session-0:2.6-23.fc42.x86_64"
+[[packages]]
+name = "paps-0:0.8.0-13.fc42.x86_64"
+[[packages]]
+name = "parted-0:3.6-11.fc42.x86_64"
+[[packages]]
+name = "passwdqc-0:2.0.3-6.fc42.x86_64"
+[[packages]]
+name = "patch-0:2.8-1.fc42.x86_64"
+[[packages]]
+name = "patchutils-0:0.4.2-15.fc42.x86_64"
+[[packages]]
+name = "pavucontrol-0:6.1-3.fc42.x86_64"
+[[packages]]
+name = "pbzip2-0:1.1.13-14.fc42.x86_64"
+[[packages]]
+name = "pciutils-0:3.14.0-1.fc42.x86_64"
+[[packages]]
+name = "pinentry-gnome3-0:1.3.1-3.fc42.x86_64"
+[[packages]]
+name = "pinfo-0:0.6.13-8.fc42.x86_64"
+[[packages]]
+name = "pipewire-0:1.4.7-1.fc42.i686"
+[[packages]]
+name = "pipewire-0:1.4.7-1.fc42.x86_64"
+[[packages]]
+name = "pipewire-alsa-0:1.4.7-1.fc42.i686"
+[[packages]]
+name = "pipewire-alsa-0:1.4.7-1.fc42.x86_64"
+[[packages]]
+name = "pipewire-gstreamer-0:1.4.7-1.fc42.x86_64"
+[[packages]]
+name = "pipewire-jack-audio-connection-kit-0:1.4.7-1.fc42.x86_64"
+[[packages]]
+name = "pipewire-pulseaudio-0:1.4.7-1.fc42.x86_64"
+[[packages]]
+name = "pipewire-utils-0:1.4.7-1.fc42.x86_64"
+[[packages]]
+name = "plocate-0:1.1.23-2.fc42.x86_64"
+[[packages]]
+name = "plymouth-0:24.004.60-19.fc42.x86_64"
+[[packages]]
+name = "plymouth-system-theme-0:24.004.60-19.fc42.x86_64"
+[[packages]]
+name = "podman-5:5.5.2-1.fc42.x86_64"
+[[packages]]
+name = "policycoreutils-0:3.8-1.fc42.x86_64"
+[[packages]]
+name = "policycoreutils-python-utils-0:3.8-1.fc42.noarch"
+[[packages]]
+name = "polkit-0:126-3.fc42.1.x86_64"
+[[packages]]
+name = "power-profiles-daemon-0:0.30-1.fc42.x86_64"
+[[packages]]
+name = "powertop-0:2.15-10.fc42.x86_64"
+[[packages]]
+name = "prefixdevname-0:0.2.0-6.fc42.x86_64"
+[[packages]]
+name = "prismlauncher-0:9.3-1.fc42.x86_64"
+[[packages]]
+name = "procps-ng-0:4.0.4-6.fc42.x86_64"
+[[packages]]
+name = "protonplus-0:0.5.12-1.fc42.x86_64"
+[[packages]]
+name = "psacct-0:6.6.4-24.fc42.x86_64"
+[[packages]]
+name = "psmisc-0:23.7-5.fc42.x86_64"
+[[packages]]
+name = "ptyxis-0:48.5-1.fc42.x86_64"
+[[packages]]
+name = "pycharm-community-0:2025.2-1.fc42.x86_64"
+[[packages]]
+name = "pycharm-community-plugins-0:2025.2-1.fc42.x86_64"
+[[packages]]
+name = "python3-devel-0:3.13.5-1.fc42.x86_64"
+[[packages]]
+name = "python3-libguestfs-1:1.56.1-1.fc42.x86_64"
+[[packages]]
+name = "python3-pwntools-0:4.13.1-2.fc42.noarch"
+[[packages]]
+name = "qadwaitadecorations-qt5-0:0.1.6-8.fc42.x86_64"
+[[packages]]
+name = "qastools-0:0.23.0-11.fc42.x86_64"
+[[packages]]
+name = "qbittorrent-1:5.1.2-1.fc42.x86_64"
+[[packages]]
+name = "qemu-guest-agent-2:9.2.4-1.fc42.x86_64"
+[[packages]]
+name = "qemu-kvm-2:9.2.4-1.fc42.x86_64"
+[[packages]]
+name = "qjackctl-0:1.0.4-1.fc42.x86_64"
+[[packages]]
+name = "qmidiarp-0:0.6.5-20.fc42.x86_64"
+[[packages]]
+name = "qsynth-0:1.0.3-1.fc42.x86_64"
+[[packages]]
+name = "qt5-qtbase-0:5.15.17-1.fc42.x86_64"
+[[packages]]
+name = "qt5-qtbase-gui-0:5.15.17-1.fc42.x86_64"
+[[packages]]
+name = "qt5-qtdeclarative-0:5.15.17-1.fc42.x86_64"
+[[packages]]
+name = "qt5-qtxmlpatterns-0:5.15.17-1.fc42.x86_64"
+[[packages]]
+name = "qtractor-0:1.2.0-3.fc42.x86_64"
+[[packages]]
+name = "quota-1:4.09-8.fc42.x86_64"
+[[packages]]
+name = "rakarrack-0:0.6.2-0.31.20150814gita620840.fc42.x86_64"
+[[packages]]
+name = "raysession-0:0.14.3-2.fc42.noarch"
+[[packages]]
+name = "realmd-0:0.17.1-17.fc42.x86_64"
+[[packages]]
+name = "realtek-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "rhythmbox-0:3.4.8-2.fc42.x86_64"
+[[packages]]
+name = "rootfiles-0:8.1-38.fc42.noarch"
+[[packages]]
+name = "rosegarden4-0:21.12-9.fc42.x86_64"
+[[packages]]
+name = "rpm-0:4.20.1-1.fc42.x86_64"
+[[packages]]
+name = "rpmfusion-free-release-0:42-1.noarch"
+[[packages]]
+name = "rpmfusion-free-release-tainted-0:42-1.noarch"
+[[packages]]
+name = "rpmfusion-nonfree-release-0:42-1.noarch"
+[[packages]]
+name = "rpmfusion-nonfree-release-tainted-0:42-1.noarch"
+[[packages]]
+name = "rsync-0:3.4.1-3.fc42.x86_64"
+[[packages]]
+name = "rsyslog-0:8.2412.0-3.fc42.x86_64"
+[[packages]]
+name = "rustdesk-0:1.4.1-0.x86_64"
+[[packages]]
+name = "rygel-0:0.44.2-1.fc42.x86_64"
+[[packages]]
+name = "samba-client-2:4.22.3-2.fc42.x86_64"
+[[packages]]
+name = "samplv1-0:0.9.91-5.fc42.x86_64"
+[[packages]]
+name = "sane-backends-drivers-scanners-0:1.4.0-2.fc42.i686"
+[[packages]]
+name = "sane-backends-drivers-scanners-0:1.4.0-2.fc42.x86_64"
+[[packages]]
+name = "sassc-0:3.6.2-11.fc42.x86_64"
+[[packages]]
+name = "sbc-0:2.0-6.fc42.x86_64"
+[[packages]]
+name = "sbsigntools-0:0.9.5-8.fc42.x86_64"
+[[packages]]
+name = "screen-0:5.0.1-4.fc42.x86_64"
+[[packages]]
+name = "scrub-0:2.6.1-10.fc42.x86_64"
+[[packages]]
+name = "sdl2-compat-devel-0:2.32.56-1.fc42.x86_64"
+[[packages]]
+name = "sdl2-compat-static-0:2.32.56-1.fc42.x86_64"
+[[packages]]
+name = "selinux-policy-targeted-0:42.4-1.fc42.noarch"
+[[packages]]
+name = "setserial-0:2.17-62.fc42.x86_64"
+[[packages]]
+name = "setup-0:2.15.0-13.fc42.noarch"
+[[packages]]
+name = "shadow-utils-2:4.17.4-1.fc42.x86_64"
+[[packages]]
+name = "shim-ia32-0:15.8-3.x86_64"
+[[packages]]
+name = "shim-x64-0:15.8-3.x86_64"
+[[packages]]
+name = "simple-scan-0:48.1-1.fc42.x86_64"
+[[packages]]
+name = "smartmontools-1:7.5-2.fc42.x86_64"
+[[packages]]
+name = "snapshot-0:48.0.1-1.fc42.x86_64"
+[[packages]]
+name = "sooperlooper-0:1.7.9-2.fc42.x86_64"
+[[packages]]
+name = "sos-0:4.9.1-1.fc42.noarch"
+[[packages]]
+name = "sox-0:14.4.2.0-41.fc42.x86_64"
+[[packages]]
+name = "speech-dispatcher-0:0.12.1-1.fc42.x86_64"
+[[packages]]
+name = "speech-dispatcher-espeak-ng-0:0.12.1-1.fc42.x86_64"
+[[packages]]
+name = "spice-vdagent-0:0.22.1-8.fc42.x86_64"
+[[packages]]
+name = "spice-webdavd-0:3.0-11.fc42.x86_64"
+[[packages]]
+name = "sssd-common-0:2.11.1-1.fc42.x86_64"
+[[packages]]
+name = "sssd-kcm-0:2.11.1-1.fc42.x86_64"
+[[packages]]
+name = "sssd-proxy-0:2.11.1-1.fc42.x86_64"
+[[packages]]
+name = "steam-0:1.0.0.83-1.fc42.i686"
+[[packages]]
+name = "subversion-0:1.14.5-14.fc42.x86_64"
+[[packages]]
+name = "sudo-0:1.9.17-2.p1.fc42.x86_64"
+[[packages]]
+name = "sushi-0:46.0-3.fc42.x86_64"
+[[packages]]
+name = "symlinks-0:1.7-12.fc42.x86_64"
+[[packages]]
+name = "synthv1-0:0.9.91-4.fc42.x86_64"
+[[packages]]
+name = "system-config-printer-udev-0:1.5.18-12.fc42.x86_64"
+[[packages]]
+name = "systemd-0:257.7-1.fc42.x86_64"
+[[packages]]
+name = "systemd-oomd-defaults-0:257.7-1.fc42.noarch"
+[[packages]]
+name = "systemd-resolved-0:257.7-1.fc42.x86_64"
+[[packages]]
+name = "systemd-udev-0:257.7-1.fc42.x86_64"
+[[packages]]
+name = "systemtap-0:5.3-1.fc42.x86_64"
+[[packages]]
+name = "tar-2:1.35-5.fc42.x86_64"
+[[packages]]
+name = "tcpdump-14:4.99.5-4.fc42.x86_64"
+[[packages]]
+name = "teamd-0:1.32-11.fc42.x86_64"
+[[packages]]
+name = "telegram-desktop-0:5.13.1-2.fc42.x86_64"
+[[packages]]
+name = "thermald-0:2.5.9-1.fc42.x86_64"
+[[packages]]
+name = "tigervnc-0:1.15.0-6.fc42.x86_64"
+[[packages]]
+name = "time-0:1.9-26.fc42.x86_64"
+[[packages]]
+name = "timidity++-0:2.15.0-13.fc42.x86_64"
+[[packages]]
+name = "tinysparql-0:3.9.2-1.fc42.x86_64"
+[[packages]]
+name = "tiwilink-firmware-0:20250708-1.fc42.noarch"
+[[packages]]
+name = "tlp-0:1.7.0-3.fc42.noarch"
+[[packages]]
+name = "tlp-rdw-0:1.7.0-3.fc42.noarch"
+[[packages]]
+name = "toolbox-0:0.1.2-1.fc42.x86_64"
+[[packages]]
+name = "totem-1:43.2-1.fc42.x86_64"
+[[packages]]
+name = "traceroute-3:2.1.6-2.fc42.x86_64"
+[[packages]]
+name = "tree-0:2.2.1-1.fc42.x86_64"
+[[packages]]
+name = "udisks2-btrfs-0:2.10.90-3.fc42.x86_64"
+[[packages]]
+name = "unace-0:2.50-27.fc42.i686"
+[[packages]]
+name = "unrar-0:7.1.7-1.fc42.x86_64"
+[[packages]]
+name = "unzip-0:6.0-66.fc42.x86_64"
+[[packages]]
+name = "uresourced-0:0.5.4-3.fc42.x86_64"
+[[packages]]
+name = "usb_modeswitch-0:2.6.2-2.fc42.x86_64"
+[[packages]]
+name = "usbutils-0:018-3.fc42.x86_64"
+[[packages]]
+name = "util-linux-0:2.40.4-7.fc42.x86_64"
+[[packages]]
+name = "vdpauinfo-0:1.5-6.fc42.x86_64"
+[[packages]]
+name = "vim-minimal-2:9.1.1591-1.fc42.x86_64"
+[[packages]]
+name = "virt-install-0:5.0.0-2.fc42.noarch"
+[[packages]]
+name = "virt-manager-0:5.0.0-2.fc42.noarch"
+[[packages]]
+name = "virt-top-0:1.1.2-1.fc42.x86_64"
+[[packages]]
+name = "VirtualBox-0:7.1.10-2.fc42.x86_64"
+[[packages]]
+name = "virtualbox-guest-additions-0:7.1.8-1.fc42.x86_64"
+[[packages]]
+name = "virt-viewer-0:11.0-15.fc42.x86_64"
+[[packages]]
+name = "vmpk-0:0.9.1-1.fc42.x86_64"
+[[packages]]
+name = "vpnc-0:0.5.3^20241114.git11e15a1-2.fc42.x86_64"
+[[packages]]
+name = "waydroid-0:1.5.4-1.fc42.noarch"
+[[packages]]
+name = "wget2-wget-0:2.2.0-5.fc42.x86_64"
+[[packages]]
+name = "which-0:2.23-2.fc42.x86_64"
+[[packages]]
+name = "whois-0:5.6.2-1.fc42.x86_64"
+[[packages]]
+name = "wine-0:10.12-2.fc42.x86_64"
+[[packages]]
+name = "winetricks-0:20250102-2.fc42.noarch"
+[[packages]]
+name = "wireplumber-0:0.5.10-1.fc42.x86_64"
+[[packages]]
+name = "words-0:3.0-61.fc42.noarch"
+[[packages]]
+name = "wpa_supplicant-1:2.11-6.fc42.x86_64"
+[[packages]]
+name = "x264-0:0.164-16.20231001git31e19f92.fc42.x86_64"
+[[packages]]
+name = "x265-0:4.1-2.fc42.x86_64"
+[[packages]]
+name = "xdelta-0:3.1.0-22.fc42.x86_64"
+[[packages]]
+name = "xdg-desktop-portal-0:1.20.3-1.fc42.x86_64"
+[[packages]]
+name = "xdg-desktop-portal-gnome-0:48.0-1.fc42.x86_64"
+[[packages]]
+name = "xdg-desktop-portal-gtk-0:1.15.3-1.fc42.x86_64"
+[[packages]]
+name = "xdg-user-dirs-gtk-0:0.11-6.fc42.x86_64"
+[[packages]]
+name = "xfsprogs-0:6.12.0-3.fc42.x86_64"
+[[packages]]
+name = "xlsfonts-0:1.0.8-3.fc42.x86_64"
+[[packages]]
+name = "xorg-x11-drv-intel-0:2.99.917^20240506gitce811e7-63.fc42.x86_64"
+[[packages]]
+name = "xorg-x11-font-utils-1:7.5-61.fc42.x86_64"
+[[packages]]
+name = "yelp-2:42.2-9.fc42.x86_64"
+[[packages]]
+name = "yoshimi-0:2.3.0-6.fc42.x86_64"
+[[packages]]
+name = "zip-0:3.0-43.fc42.x86_64"
+[[packages]]
+name = "zisofs-tools-0:1.0.8-35.fc42.x86_64"
+[[packages]]
+name = "zita-at1-0:0.6.2-15.fc42.x86_64"
+[[packages]]
+name = "zita-rev1-0:0.2.2-14.fc42.x86_64"
+[[packages]]
+name = "zlib-ng-compat-0:2.2.4-3.fc42.i686"
+[[packages]]
+name = "zram-generator-defaults-0:1.2.1-2.fc42.noarch"
+[[packages]]
+name = "zsh-0:5.9-16.fc42.x86_64"
+[[packages]]
+name = "zynaddsubfx-0:3.0.6-9.fc42.x86_64"
+# PACOTES DE DEPENDÊNCIA PARA COMPILAR O JADE GUI
+[[packages]]
+name = "git"
+[[packages]]
+name = "meson"
+[[packages]]
+name = "ninja-build"
+[[packages]]
+name = "gtk4-devel"
+[[packages]]
+name = "libadwaita-devel"
+# ... outras dependências ...
+
+
+# SCRIPT PARA COMPILAR E INSTALAR O JADE GUI
+[[customizations.script]]
+script = """
+#!/bin/bash
+set -euxo pipefail
+cd /tmp
+git clone https://github.com/crystal-linux/jade-gui
+cd jade-gui
+meson --prefix=/usr _build
+ninja -C _build
+ninja -C _build install
+"""
