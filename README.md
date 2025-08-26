@@ -7,7 +7,7 @@
 
 **Backfed-Base** é uma distribuição Linux baseada no Fedora, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
 
-Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
+Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distribuições minimalistas, o Backfed-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
 
 ## 📥 Download
 
