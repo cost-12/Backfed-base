@@ -1,5 +1,6 @@
 <!-- Shields/Logos -->
-[![License][license-shield]][license-url]
+[![License][license-shield]][license-url] 
+[![Downloads no SourceForge](https://img.shields.io/sourceforge/dm/black-fedora-base?label=Downloads&logo=sourceforge)](https://sourceforge.net/projects/black-fedora-base/files/latest/download)
 
 <img width="400" height="400" alt="Backfed-logo" src="https://github.com/user-attachments/assets/d6880c10-1ed2-474b-8af5-3d08d174695d" />
 
@@ -11,7 +12,7 @@ Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distr
 
 ## 📥 Download
 
-[![Downloads no SourceForge](https://img.shields.io/sourceforge/dm/black-fedora-base?label=Downloads&logo=sourceforge)](https://sourceforge.net/projects/black-fedora-base/files/latest/download)
+<a href="https://sourceforge.net/projects/black-fedora-base/files/latest/download"><img alt="Download Backfed-base" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 
 **Versão Atual:** v0.0.2 | **Tamanho:** 2.5 GB
 
