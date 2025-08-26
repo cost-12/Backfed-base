@@ -1,15 +1,13 @@
 <!-- Shields/Logos -->
 [![License][license-shield]][license-url]
 
-<img width="400" height="400" alt="Blackarch-logo" src="https://github.com/user-attachments/assets/cc944209-7e00-4e08-a896-104b6f20d2b0" />
+<img width="500" height="500" alt="Backfed-logo" src="https://github.com/user-attachments/assets/d6880c10-1ed2-474b-8af5-3d08d174695d" />
 
-# 🖥️ Blackfedora-Base
+# 🖥️ Blackfed-Base
 
-**Blackfedora-Base** é uma distribuição Linux baseada no Fedora, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
+**Blackfed-Base** é uma distribuição Linux baseada no Fedora, criada com o objetivo de oferecer uma experiência estável, leve e funcional para **usuários de hardware Intel com gráficos integrados (iGPU)**.
 
-Inspirado em projetos como CrystalLinux, ElementaryOS e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
-
-Uma spin personalizada do Fedora construída com Image Builder, otimizada para performance e com o ambiente de desktop JADE.
+Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distribuições minimalistas, o Blackfedora-Base unifica soluções e ferramentas essenciais para criar um ambiente de trabalho simples, eficiente e ideal para o dia a dia — sem complicações.
 
 ## 📥 Download
 
@@ -28,12 +26,12 @@ A imagem ISO mais recente está hospedada no SourceForge para garantir downloads
 
 ## 🚀 Principais Características
 
-- ✅ **Base Fedora** (versão 42)
+- ✅ **Base Arch** (versão 2025.08.01)
 - 🧩 **Unificação de projetos** em uma base única e coerente
 - 💻 **Foco total em hardware Intel + iGPU**
 - 🧼 Interface limpa, responsiva e amigável
 - 🛠️ Pré-configurações para melhor compatibilidade com drivers e desempenho gráfico
-- 📦 DNF como gerenciador de pacotes, com repositórios otimizados
+- 📦 PACMAN como gerenciador de pacotes, com repositórios otimizados
 - 🔐 Ambiente seguro e pronto para uso doméstico ou profissional leve
 
 ---
@@ -47,7 +45,7 @@ A imagem ISO mais recente está hospedada no SourceForge para garantir downloads
 
 ---
 
-## 📌 Por que "Blackfedora-Base"?
+## 📌 Por que "Blackfed-Base"?
 
 Apesar do nome remeter ao BlackArch, o foco aqui é diferente:
 - **Não é uma distro de pentest**, mas sim uma base otimizada
@@ -67,7 +65,11 @@ Quer ajudar no projeto, testar ou sugerir melhorias? Fique à vontade para abrir
 
 
 ## 🤝 Créditos
-<a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Black-fedora-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
+<a href="https://sourceforge.net/p/black-fedora-base/"><img alt="Download Black-fed-base" src="https://sourceforge.net/sflogo.php?type=17&amp;group_id=3900944" width=200></a>
+https://archlinux.org/
+https://www.fedoraproject.org/
+https://github.com/cachyos
+https://github.com/CachyOS/linux-cachyos
 
 <!-- Reference Links -->
 <!-- Badges -->
