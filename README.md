@@ -11,8 +11,6 @@ Inspirado em projetos como CrystalLinux, ElementaryOS, Arch Linux e outras distr
 
 ## 📥 Download
 
-A imagem ISO mais recente está hospedada no SourceForge para garantir downloads rápidos e confiáveis para todos.
-
 [![Downloads no SourceForge](https://img.shields.io/sourceforge/dm/black-fedora-base?label=Downloads&logo=sourceforge)](https://sourceforge.net/projects/black-fedora-base/files/latest/download)
 
 **Versão Atual:** v0.0.2 | **Tamanho:** 2.5 GB
